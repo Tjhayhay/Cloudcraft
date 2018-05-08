@@ -1,0 +1,2 @@
+# Cloudcraft
+Vagrant/Ansible Playground
